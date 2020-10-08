@@ -25,7 +25,7 @@ The problem we are working on is regression problem where main objective is to p
 <img src="first_5_days_case.png"/>
 
 > Nepal latest five days bar-chart
-<img src="last_5_days_bar_comparision.png"/>
+<img src="last_5_days_bar_comaprision.png"/>
 
 > Nepal corona case yearwise comparision (2019 and 2020)
 <img src="latest_case_growth_with_days.png"/>
