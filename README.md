@@ -20,6 +20,15 @@ The problem we are working on is regression problem where main objective is to p
   * Seaborn - same use as Matplotlib with additional features
   * Scikit-Learn(Sklearn) - for machine learning modelling
   
-#EDA
+# EDA
+> Nepal First Five days case which we can see there was no any cases till first five days
 <img src="first_5_days_case.png"/>
+> Nepal latest five days bar-chart
+<img src="last_5_days_bar_comparision"/>
+> Nepal corona case yearwise comparision (2019 and 2020)
+<img src="latest_case_growth_with_days"/>
+> Nepal latest case line graph
+<img src="latest_case_linegraph"/>
+> Newcases vs total cases line graph 
+<img src="newcases_vs_totalcases_linearGraph"/>
 
