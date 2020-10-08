@@ -34,5 +34,11 @@ The problem we are working on is regression problem where main objective is to p
 <img src="latest_case_linegraph.png"/>
 
 > Newcases vs total cases line graph 
-<img src="newcases_vs_totalcases_linearGraph.png"/>
+<img src="newcase_vs_totalcases_linearGraph.png"/>
+
+> Seaborn heatmap correlation
+<img src="correlation_heatmap.png"/>
+
+> Feature importance after imputation
+<img src="feature_importance.png"/>
 
