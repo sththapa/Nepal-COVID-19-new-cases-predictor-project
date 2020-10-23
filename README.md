@@ -10,8 +10,10 @@
 
 # Overview
 This is a Machine Learning Model built using the dataset of COVID-19 to predict the new cases of Nepal. The model is cleaned and polished to reach certain level of accuracy inorder to predict new cases. Since, the data was continous dataset I have used Regression model for this model.
+
 # Motivation
 I was motivated to involve in this project as a project for my final year college project and what could be the best to utilize the things that I have been learning since the start of COVID-19 pandemic. I always wanted to make an app which could predict something by itself for the future, but the main question for me was what shall I use for dataset. Fortunately, as I was doing another project on mobile app using flutter sdk which is also included in my github repo https://github.com/sththapa/Corona-Tracking-App, and video link https://www.youtube.com/watch?v=B_5m5JhlKoA&t=645s, this app was about the COVID-19 which could show us the updated COVID-19 case of Nepal everytime we open an app. Now, this thing trigerred my mind that why not to do the same thing to make a predictive model using Machine Learning. I tried to search a lot of data on the internet and I finnaly found a dataset of all the lastest cases of world. But, my intension was to predict the new cases of Nepal only so I had filtered the country and choosed Nepal only. On this 1 month journey of project I am happy that I got to learn many new things and also added that things that I knew. These things always motivated me towards this project.
+
 # Technical aspect
 The project is in three parts:
 >1. At first model was built using Jupyter notebook where I trained machine learning model.
@@ -20,10 +22,13 @@ The project is in three parts:
 # Installation
 The code is completely written in python 3 language and for frontend I installed streamlit using the command:
 > pip install streamlit
+
 # Deployment On Heroku
 <img src="heroku.png"/>
+
 # Updation
-Certain figures and minor changes will be updated time to time if required.
+Certain figures and minor changes will be updated time to time if required.4
+
 # Technologies used
 <img src="jupyter.png"/>
 <img src="spyder.png"/>
@@ -98,7 +103,7 @@ I used spyder IDE using streamlit framework to build frontend website to enter t
 ©️ Santosh Thapa 2020
 
 # Creator
-<img src="sth.png"/>
+-SANTOSH THAPA
 
 # Demo
 Link: https://corona-predictor-nepal-updated.herokuapp.com/
