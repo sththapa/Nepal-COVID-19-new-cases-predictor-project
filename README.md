@@ -42,6 +42,13 @@ The problem we are working on is regression problem where main objective is to p
 > Feature importance after imputation
 <img src="feature_importance.png"/>
 
+> Initially before cleaning the data heatmap
+<img src="denseheatmap.png"/>
+
+> After cleaning the heatmap
+<img src="blankheatmap.png"/>
+
+
 
 # Model Building
 First, I cleaned up all the data and converted all the datatypes into numerical format as machine learning model can understand numerical values only.
