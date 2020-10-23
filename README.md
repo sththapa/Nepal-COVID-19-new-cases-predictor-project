@@ -28,7 +28,7 @@ The code is completely written in python 3 language and for frontend I installed
 <img src="heroku.png"/>
 
 # Updation
-Certain figures and minor changes will be updated time to time if required.4
+Certain figures and minor changes will be updated time to time if required.
 
 # Technologies used
 <img src="jupyter.png"/>
