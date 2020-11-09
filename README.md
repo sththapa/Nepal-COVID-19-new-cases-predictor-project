@@ -95,7 +95,7 @@ The problem we are working on is regression problem where main objective is to p
 # Model Building
 First, I cleaned up all the data and converted all the datatypes into numerical format as machine learning model can understand numerical values only.
 I also split the data in the ratio of 8:2 i.e. 80% of the data was used for train set and 20% data was used for test set.
-I basically used Random Forest Regressor though I compared it with other model and it gave me the higher accuracy so I choosed RandomForest Regressor which is one of the versatile machine learning model.
+I basically used Random Forest Regressor though I compared it with other model and it gave me the higher accuracy so I choosed RandomForest Regressor which is one of the versatile machine learning model.It helped me to achive good accuracy.
 
 # Productionization
 I used spyder IDE using streamlit framework to build frontend website to enter the data and see the predicted new case of Nepal new COVID-19 cases.
