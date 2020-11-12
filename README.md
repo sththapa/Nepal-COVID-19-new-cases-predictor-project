@@ -38,7 +38,7 @@ Certain figures and minor changes will be updated time to time if required.
 <img src="heroku1.png"/>
 
 # Credits
-My credit goes to all the google datasets, my udemy teacher who taught me how to use machine leaning model and also various blogs related to Machine Learning and Data Science.
+My credit goes to all the google datasets, my udemy teachers who taught me how to use Machine Learning model,Deep Learning and also various blogs related to Machine Learning and Data Science.
 
 # Nepal_New_Cases_Predictor_Project Overview
 * Created a model that can estimate the new COVID-19 cases of Nepal.
