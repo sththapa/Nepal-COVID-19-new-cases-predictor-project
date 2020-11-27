@@ -9,16 +9,17 @@
 * Credits
 
 # Overview
-This is a Machine Learning Model built using the dataset of COVID-19 to predict the new cases of Nepal. The model is cleaned and polished to reach certain level of accuracy inorder to predict new cases. Since, the data was continous dataset I have used Regression model for this model.
+This is a Machine Learning Model built using the dataset of COVID-19 to predict the new cases of Nepal. The model is cleaned and polished to reach certain level of accuracy inorder to predict new cases. Since, the data was continous dataset with single output I have used Regression model for this model.
 
 # Motivation
-I was motivated to involve in this project as a project for my final year college project and what could be the best to utilize the things that I have been learning since the start of COVID-19 pandemic, I always wanted to make an app which could predict something by itself for the future, but the main question for me was what shall I use for dataset. Fortunately, as I was doing another project on mobile app using flutter sdk which is also included in my github repo https://github.com/sththapa/Corona-Tracking-App, and video link https://www.youtube.com/watch?v=UQzt_VKOcCY&t=793s, this app was about the COVID-19 which could show us the updated COVID-19 case of Nepal everytime we open an app. Now, this thing trigerred my mind thats I thought why not to do the same thing to make a predictive model using Machine Learning. I tried to search a lot of data on the internet and I finally found a dataset of all the lastest cases of world. But, my intension was to predict the new cases of Nepal only so I had filtered the country and choosed Nepal only. On this 1 month journey of project I am happy that I got to learn many new things and also added that things that I knew. These things always motivated me towards this project.
+I was motivated to involve in this project as a project for my final year college project and what could be the best to utilize the things that I have been learning since the start of COVID-19 pandemic, I always wanted to make an app which could predict something by itself for the future, but the main question for me was what shall I use for dataset. Fortunately, as I was doing another project on mobile app using flutter sdk which is also included in my github repo https://github.com/sththapa/Corona-Tracking-App, and video link https://www.youtube.com/watch?v=UQzt_VKOcCY&t=793s, this app was about the COVID-19 which could show us the updated COVID-19 case of Nepal everytime we open an app. Now, this thing trigerred my mind that I thought why not to do the same thing to make a predictive model using Machine Learning. I tried to search a lot of data on the internet and I finally found a dataset of all the lastest cases of world. But, my intension was to predict the new cases of Nepal only so I had filtered the country and choosed Nepal only. On this 1 month journey of project I am happy that I got to learn many new things and also added that things that I knew. These things always motivated me towards this project.
 
 # Technical aspect
 The project is in three parts:
->1. At first model was built using Jupyter notebook where I trained machine learning model.
->2. Streamlit framework was used for building the frontend framework where user can interact easily.
->3. App has been deployed in heroku to make it live.
+>1. At first model was built using Jupyter notebook where I trained machine learning model
+>2. Model is trainded and tested with Deep Learning Model as well.
+>3. Streamlit framework was used for building the frontend framework where user can interact easily.
+>4. App has been deployed in heroku to make it live.
 
 # Installation
 The code is completely written in python 3 language and for frontend I installed streamlit using the command:
@@ -36,6 +37,8 @@ Certain figures and minor changes will be updated time to time if required.
 <img src="python.png"/>
 <img src="streamlit.png"/>
 <img src="heroku1.png"/>
+<img src="keras.jpeg"/>
+<img src="tensorflow.png"/>
 
 # Credits
 My credit goes to all the google datasets, my udemy teachers who taught me how to use Machine Learning model,Deep Learning and also various blogs related to Machine Learning and Data Science.
@@ -43,8 +46,9 @@ My credit goes to all the google datasets, my udemy teachers who taught me how t
 # Nepal_New_Cases_Predictor_Project Overview
 * Created a model that can estimate the new COVID-19 cases of Nepal.
 * Cleaned and filtered the data where I selected Nepal as a country but if we want we can select any country and proceed its case study.
-* Used RandomForest Regressor model to train and built the model, also compared the accuaracy of RandomForest Regressor, KNN and Linear Regression.
+* Used RandomForest Regressor model to train and built the model, also compared the accuaracy of RandomForest Regressor, KNN,Linear Regression,Ridge.
 * Reached around 87% of accuracy for our predition.
+* Trained and tested with Deep Learning Model
 * Model is brought into production using Streamlit framework.https://www.streamlit.io/
 
 # Code and Resources Used
@@ -61,6 +65,7 @@ The problem we are working on is regression problem where main objective is to p
   * Matplotlib - for data visualization
   * Seaborn - same use as Matplotlib with additional features
   * Scikit-Learn(Sklearn) - for machine learning modelling
+  * Tensorflow and Keras - for deep learning model
   
 # EDA
 > Nepal First Five days case which we can see there was no any cases till first five days
